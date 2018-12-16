@@ -1,0 +1,4 @@
+
+interface Symmetric {
+	Point getPointOfSymmetry();
+}
